@@ -10,7 +10,7 @@ Founder of Omniscan Medical. First product: Project Atlas.
 
 **Project Atlas** -> abdominal CT pathology detection for clinical workflows. 0.983 macro AUROC, 89.5% F1, 99.5% nine-region localization. 1,274 patients, 42,922 annotations, patient-level zero-leakage validation. Paper under peer review.
 
-**Omniscan Medical** -> the company around Project Atlas. TUSEB 2026-A3 Round 1 accepted. Round 2 submitted on April 5, 2026, awaiting decision.
+**Evreon AI** -> the company around Project Atlas. TUSEB 2026-A3 Round 1 accepted. Round 2 submitted on April 5, 2026, awaiting decision.
 
 **Hospital Infrastructure** -> AI does not deploy into hospitals by magic. PACS, databases, reporting workflows, and procurement all matter. I'm interviewing doctors and IT staff across Hungary, Turkey, and Europe to map the bottlenecks before building the layer on top.
 
